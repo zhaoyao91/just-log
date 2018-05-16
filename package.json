@@ -1,0 +1,8 @@
+{
+  "name": "just-log",
+  "main": "index",
+  "dependencies": {
+    "chance": "^1.0.13",
+    "simple-json-logger": "^2.1.2"
+  }
+}
